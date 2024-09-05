@@ -2,7 +2,7 @@
 meaning that i want to place all png, jpg, img files into a folder in another location on my pc, as well as for 
 mp3 mp4..etc."""
 
- 
+
 """ !TODO: basic file handeling | Catergorize and Organize | User input and flexibility | Error Handiling
 (optional) make a GUI """ 
 
